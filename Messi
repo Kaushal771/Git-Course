@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
+      <h1> Git Crash Course </h1> 
+      <h2> Youtube is great </h2>
 	<script src="index.js"></script>
   </body>
 </html>
